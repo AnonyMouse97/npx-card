@@ -10,7 +10,7 @@ This npx package is a small visit card done with node js.
 
 To use it you can use npm:
 
-```$ npx i @anonymouse97/npx-card```
+```$ npx @anonymouse97/npx-card```
 
 ## Extras
 
