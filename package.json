@@ -1,0 +1,27 @@
+{
+  "name": "@anonymouse97/npx-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnonyMouse97/npx-card.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnonyMouse97/npx-card/issues"
+  },
+  "homepage": "https://github.com/AnonyMouse97/npx-card#readme",
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "cfonts": "^2.9.1",
+    "columnify": "^1.5.4"
+  },
+  "bin": {
+    "samCard": "./index.js"
+  }
+}
